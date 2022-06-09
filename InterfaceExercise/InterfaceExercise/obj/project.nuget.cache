@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mp/HMDWjrQ6pfDkEnJASmqFBZPS4Ry/dxwNmTZBagIoa1V9ycEeI0KIpudnfdEjLmwmDbk80lwsISun4RGk0sA==",
+  "success": true,
+  "projectFilePath": "/Users/jsalaiz/Documents/TrueCoders/InterfaceExercise/InterfaceExercise/InterfaceExercise/InterfaceExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/jsalaiz/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/Users/jsalaiz/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.0.3/microsoft.netcore.app.host.osx-x64.3.0.3.nupkg.sha512",
+    "/Users/jsalaiz/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
